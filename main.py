@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
 
 # Substitua pelo seu token do BotFather
-TOKEN = 'SEU_TOKEN_AQUI'
+TOKEN = '7923352480:AAE_27YQCZNEo9ioycZKaHk6Np90zYd_nb0'
 
 # Função para responder ao comando /start
 def start(update: Update, context: CallbackContext) -> None:
